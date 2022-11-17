@@ -1,0 +1,6 @@
+2A|	1/Kopiowanie plików starszych niż		2/Zmiana praw dostępu				   	3/Lista plików+liczenie słów
+2B|	1/Dec na Hex			 		2/Scalanie zawartosci plików+ilość scalonych plików	3/Palindron
+6A|	1/Lista plików o podanych rozszerzeniach	2/Scalanie zawartosci plików+ilość scalonych plików	3/Odwracanie słowa
+6B|	1/Usuwanie cudzysłowów				2/Listy plików o tej samej zawartości sortowane		3/Usuwanie białych znaków
+7A|	1/Lista plików o podanych rozszerzeniach	2/Zmiana praw dostępu					3/Usuwanie białych znaków
+7B|	1/Usuwanie cudzysłowów				2/Zmiana słowa w pliku na inne				3/Liczenie znaków w pliku+zapis zależny od parzystości
