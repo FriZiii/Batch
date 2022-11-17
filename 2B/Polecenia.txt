@@ -1,0 +1,4 @@
+Kolokwium nr 1 gr 2B - 16.11 15:30
+rem dane_wejsciowe.txt dziesiętny --> dane_wyjsciowe.txt szesnatkowy
+rem scal zawartosc wszystkich plikow o zadanym rozszerzeniu w wybranym folderze. Rozszerzenie i katalog podajemy z wejścia. Do info.txt wpisz liczbe scalonych plikow
+rem Sprawdz czy wpisane slowo jako argument jest palindromem

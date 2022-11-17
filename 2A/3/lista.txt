@@ -1,0 +1,2 @@
+E:\Studia\Batch-kolosy\2A\3\tekst\a.txt liczba slow: 4
+E:\Studia\Batch-kolosy\2A\3\tekst\b.txt liczba slow: 6
