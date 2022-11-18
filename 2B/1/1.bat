@@ -1,6 +1,9 @@
 @echo off
 
+if exist hex.txt del hex.txt
+
 set /p var=<dec.txt
+
 set /a num= var
 set result=
 :start
